@@ -22,19 +22,14 @@
 </p>
 
 <hr/>
-  
-  <div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-      <p align="left">
+
+<img align="right" width="450" height="550" src="https://github.com/JonathanMonDen/JonathanMonDen/blob/JonathanMonDen-patch-1/portal-stickman%20(2).png">
+<p align="left">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanmonden&theme=dark&show_icons=true&locale=es&layout=compact&line_height=20&bg_color=00000000" alt="jonathanmonden"/>
       </p>
-      <p align="left">
+<p align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=jonathanmonden&show_icons=true&locale=es&line_height=20&title_color=333B4B&hide_title=true&icon_color=333B4B&bg_color=00000000&text_color=FFFFFF" alt="jonathanmonden" />
       </p>
-      <p align="left">
+<p align="left">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=jonathanmonden&locale=es&theme=dark&date_format=j%20M%5B%20Y%5D&background=00000000&fire=333B4B&ring=333B4B&currStreakLabel=333B4B" alt="jonathanmonden" />
       </p>
-    </div>
-  </div>
-</div>
