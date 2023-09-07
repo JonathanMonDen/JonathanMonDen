@@ -23,7 +23,7 @@
 
 <hr/>
 
-<img align="right" width="400" height="500" src="https://github.com/JonathanMonDen/JonathanMonDen/blob/JonathanMonDen-patch-1/portal-stickman%20(2).png">
+<img align="right" width="250" height="500" src="https://github.com/JonathanMonDen/JonathanMonDen/blob/JonathanMonDen-patch-1/portal-stickman%20(2).png">
 <p align="left">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanmonden&theme=dark&show_icons=true&locale=es&layout=compact&line_height=20&bg_color=00000000" alt="jonathanmonden"/>
       </p>
