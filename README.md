@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/jonathan-monagas-d%C3%A9niz-073105229/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-333B4B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://codepen.io/JonathanMonDen" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/CodePen-333B4B?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/> 
   </a> 
 </p>
